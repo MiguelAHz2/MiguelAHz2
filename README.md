@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,typescript,python,cs " />
+    <img src="https://skillicons.dev/icons?i=js,python,java " />
   </a>
 </p>
 
@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=sass,react,nodejs,express,astro,dotnet,fastapi,vite,tailwind   " />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,tensorflow,pytorch,vite,tailwind   " />
   </a>
 </p>
 
@@ -63,7 +63,6 @@
   </a>
 </p>
 <hr>
-
 
 
 
