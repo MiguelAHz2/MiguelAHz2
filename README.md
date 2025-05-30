@@ -20,7 +20,7 @@
           👨🏻‍💻 Puedes ver mis proyectos en [Github](https://github.com/MiguelAHz2?tab=repositories)
         </li>
         <li>
-          📝 Mi portafolio [Page](...Trabajando) 
+          📝 Mi portafolio en https://miguelalvarez.vercel.app/
         </li>
     </td>
   </tr>
@@ -33,7 +33,7 @@
 
 <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://skillicons.dev/icons?i=js,python,java " />
+    <img src="https://skillicons.dev/icons?i=js,python " />
   </a>
 </p>
 
