@@ -17,7 +17,7 @@
           🌱 Actualmente estoy aprendiendo IA en Python y desarrollo web; 
         </li>
         <li>
-          👨🏻‍💻 Puedes ver mis proyectos en [Github](https://github.com/MiguelAHz2?tab=repositories)
+          👨🏻‍💻 Puedes ver mis proyectos en https://github.com/MiguelAHz2?tab=repositories
         </li>
         <li>
           📝 Mi portafolio en https://miguelalvarez.vercel.app/
